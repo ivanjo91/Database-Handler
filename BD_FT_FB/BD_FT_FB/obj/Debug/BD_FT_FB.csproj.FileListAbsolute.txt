@@ -1,0 +1,11 @@
+c:\users\david\documents\visual studio 2015\Projects\BD_FT_FB\BD_FT_FB\bin\Debug\BD_FT_FB.exe.config
+c:\users\david\documents\visual studio 2015\Projects\BD_FT_FB\BD_FT_FB\bin\Debug\BD_FT_FB.exe
+c:\users\david\documents\visual studio 2015\Projects\BD_FT_FB\BD_FT_FB\bin\Debug\BD_FT_FB.pdb
+c:\users\david\documents\visual studio 2015\Projects\BD_FT_FB\BD_FT_FB\obj\Debug\BD_FT_FB.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\BD_FT_FB\BD_FT_FB\obj\Debug\BD_FT_FB.Form1.resources
+c:\users\david\documents\visual studio 2015\Projects\BD_FT_FB\BD_FT_FB\obj\Debug\BD_FT_FB.Properties.Resources.resources
+c:\users\david\documents\visual studio 2015\Projects\BD_FT_FB\BD_FT_FB\obj\Debug\BD_FT_FB.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2015\Projects\BD_FT_FB\BD_FT_FB\obj\Debug\BD_FT_FB.exe
+c:\users\david\documents\visual studio 2015\Projects\BD_FT_FB\BD_FT_FB\obj\Debug\BD_FT_FB.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\BD_FT_FB\BD_FT_FB\bin\Debug\mysqlbackup.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\BD_FT_FB\BD_FT_FB\obj\Debug\BD_FT_FB.csproj.BD_FT_FB.exe.config
